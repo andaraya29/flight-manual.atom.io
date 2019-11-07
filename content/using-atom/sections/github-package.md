@@ -50,7 +50,7 @@ In case a project doesn't have a Git repository yet, you can create one from the
 
 #### Clone repositories
 
-To clone a repository, run the `GitHub: Clone` command. In the dialog paste a URL of a repository and click "Clone". A new project will get added to the Tree View.
+To clone a repository, run the `GitHub: Clone` command. If you do not know where it is you should search with <kbd class=".platform-all">Ctrl+Shift+P</kbd>. In the dialog paste a URL of a repository and click "Clone". A new project will get added to the Tree View.
 
 ![Clone repositories](../../images/github-clone.png "Clone repositories")
 
